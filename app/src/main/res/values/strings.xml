@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">Запись экрана</string>
+<string name="start_record">Старт</string>
+<string name="stop_record">Стоп</string>
+</resources>
